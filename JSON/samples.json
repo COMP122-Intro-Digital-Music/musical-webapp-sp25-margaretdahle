@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "name": "Guestsatapartybeat",
+    "file": "samples/Guestsatpartybeat.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Beat3",
+    "file": "samples/Beat3.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Untitled",
+    "file": "samples/Underwaterguitar.wav",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
