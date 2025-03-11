@@ -1,1 +1,50 @@
-[]
+[
+ {
+  "name": "Handbells",
+  "type": "Synth",
+  "settings": {
+   "volume": -0.9999999999999997,
+   "detune": 56,
+   "portamento": "0",
+   "envelope": {
+    "attack": "0.115",
+    "attackCurve": "exponential",
+    "decay": "0.685",
+    "decayCurve": "linear",
+    "release": "0.665",
+    "releaseCurve": "bounce",
+    "sustain": ""
+   },
+   "oscillator": {
+    "partialCount": 0,
+    "partials": [],
+    "phase": 0,
+    "type": "sine"
+   }
+  }
+ },
+ {
+  "name": "steps",
+  "type": "Synth",
+  "settings": {
+   "volume": 0,
+   "detune": -544,
+   "portamento": "0.5",
+   "envelope": {
+    "attack": "0.085",
+    "attackCurve": "cosine",
+    "decay": "0.005",
+    "decayCurve": "exponential",
+    "release": "1.335",
+    "releaseCurve": "step",
+    "sustain": ""
+   },
+   "oscillator": {
+    "partialCount": 0,
+    "partials": [],
+    "phase": 132,
+    "type": "sine"
+   }
+  }
+ }
+]
